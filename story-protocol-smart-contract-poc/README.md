@@ -1,15 +1,14 @@
 # Smart Contract   
 
-This repository is designed to help developers get started with building on top of smart contracts. It includes a simple contract for IP registration of mock ERC-721 NFTs, along with accompanying tests.  
+This repository is designed to help developers get started with building on top of Story. It includes a simple contract for IP registration of mock ERC-721 NFTs, along with accompanying tests.  
 
 ## Documentation  
 
-Find the full smart contract guide here: 
+Find the full smart contract guide here: https://docs.story.foundation/docs/get-started-with-the-smart-contracts
 
 ## Get Started  
 
-1. Install dependencies: https://docs.story.foundation/docs/get-started-with-the-smart-contracts
-
+1. Install dependencies: 
     ```  
     yarn  
     ```  
